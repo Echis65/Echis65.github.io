@@ -1,0 +1,26 @@
+{
+  "name": "filmfinder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx web-dev-server --open /index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Echis65/Film-finder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Echis65/Film-finder/issues"
+  },
+  "homepage": "https://github.com/Echis65/Film-finder#readme",
+  "dependencies": {
+    "moment": "^2.29.3"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.1.32"
+  }
+}
